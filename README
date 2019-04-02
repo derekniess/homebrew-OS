@@ -1,4 +1,28 @@
-ECE391 MP3 - Package contents
+My contribution includes the following files in student-distrib:
+files.c
+files.h
+i8259.c
+i8259.h
+idt.c
+idt.h
+interrupthandler.c
+interrupthandler.h
+kernel.c
+keyboard.c
+keyboard.h
+lib.c
+lib.h
+paging.c
+paging.h
+rtc.c
+rtc.h
+scheduler.c
+scheduler.h
+syscalls.c
+syscalls.h
+
+
+Package contents
 ================================
 
 createfs
