@@ -6,7 +6,7 @@ This operating system was developed over the course of a matter of months for EC
 It is a multitasking, protected mode, x86 operating system modeled after the linux kernel. It features:
 
 - basic in-memory filesystem
-- user / kernel privelege seperations
+- user / kernel privilege separations
 - user programs
 - multitasking
 - memory paging / segmentation / virtualization
@@ -14,7 +14,7 @@ It is a multitasking, protected mode, x86 operating system modeled after the lin
 - pre-emptive scheduling
 - RTC, PS2 keyboard, terminal driver support
 - multiple active shells
-- system call support
+- full system call support
 
 ![alt text](https://drive.google.com/uc?export=view&id=1_t4iDPaJ_WlyP60CE_7i85CKzfZvDYPe)
 
